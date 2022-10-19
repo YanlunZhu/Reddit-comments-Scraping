@@ -82,3 +82,5 @@ Some extra clean for data cleaning include:
 2.   spell correction
 
 This block will take plenty of time.
+
+# Finally, GPT-2 model (https://github.com/minimaxir/gpt-2-simple) to run your own research
