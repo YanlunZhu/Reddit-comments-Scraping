@@ -67,7 +67,7 @@ This block include:
 *   After remove the few occurrences, we will get cleaned comment dataset
 *   Add the <|comment|> tag into the datapoint (since csv document contain starting and end tags automatically)
 
-# Title scrape: for further research
+# Further research: title scrape
 This block is for title scrape, whcih include more title cleaning, finally get csv document.
 
 We can use this document to tech GPT-2 learn the structure of title, after fine-tuned, gerenate comments based on the gerenated titles.
