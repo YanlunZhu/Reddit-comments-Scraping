@@ -83,4 +83,5 @@ Some extra clean for data cleaning include:
 
 This block will take plenty of time.
 
-# Finally, GPT-2 model (https://github.com/minimaxir/gpt-2-simple) to run your own research
+# Finally, GPT-2 model 
+Use gpt-2-simple (https://github.com/minimaxir/gpt-2-simple) to do your own research
